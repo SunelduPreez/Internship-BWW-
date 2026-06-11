@@ -15,3 +15,4 @@ Creating user-stories with Annabeth Barnard and Leander du Preez
 ## What i am stuck on
 
 ## What i will do next
+I'll do the task chosen by the team tomorrow.
